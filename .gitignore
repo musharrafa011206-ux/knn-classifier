@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Редакторы
+.idea/
+.vscode/
+
+# Файлы, создаваемые программой
+data.json
